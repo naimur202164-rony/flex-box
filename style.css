@@ -1,0 +1,16 @@
+.container{
+margin-bottom:200px;
+display: flex;
+justify-content: space-between;
+gap:10px;
+}
+
+.box{
+    border:1px solid green;
+    background-color: aqua;
+    color:white;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+  
+}
